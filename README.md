@@ -1,4 +1,63 @@
-  👉 [Bookings rooms](https://bookings-rooms.netlify.app/)
+  👉 Click here - [Bookings rooms](https://bookings-rooms.netlify.app/)
+
+
+
+  🏨 Bookings Rooms App
+A full-stack room booking web application built with React, Next.js, and Tailwind CSS, using Appwrite as a backend-as-a-service platform. Users can log in, book rooms, edit bookings, and delete them with ease.
+
+🔧 Tech Stack
+Frontend:
+
+React – UI rendering
+
+Next.js – server-side rendering, routing
+
+Tailwind CSS – utility-first styling
+
+react-toastify – user-friendly toast notifications
+
+react-icons/fa – font awesome icons
+
+luxon – date and time formatting
+
+next/cache, next/headers, next/navigation – Next.js app router features
+
+Backend:
+
+Appwrite – authentication, database, storage
+
+node-appwrite – Appwrite SDK for API interaction
+
+✨ Features
+🔐 User authentication (sign up, login, logout)
+
+📅 Book a room with selected dates
+
+📝 Edit existing bookings
+
+❌ Cancel/delete bookings
+
+⚡ Responsive UI with smooth UX
+
+🔔 Real-time feedback with toast notifications
+
+📁 Project Structure Highlights
+app/ – Next.js App Router with pages and layouts
+
+components/ – reusable UI components
+
+lib/ – API utilities and Appwrite configuration
+
+styles/ – Tailwind CSS and global styles
+
+🚀 Getting Started
+Clone the repository
+
+Set up Appwrite (locally or hosted)
+
+Configure environment variables
+
+Install dependencies and run the dev server:
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
