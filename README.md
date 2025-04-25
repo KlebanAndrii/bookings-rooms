@@ -6,7 +6,7 @@
 A full-stack room booking web application built with React, Next.js, and Tailwind CSS, using Appwrite as a backend-as-a-service platform. Users can log in, book rooms, edit bookings, and delete them with ease.
 
 🔧 Tech Stack
-# Frontend:
+### Frontend:
 
 React – UI rendering
 
@@ -22,7 +22,7 @@ luxon – date and time formatting
 
 next/cache, next/headers, next/navigation – Next.js app router features
 
-# Backend:
+### Backend:
 
 Appwrite – authentication, database, storage
 
